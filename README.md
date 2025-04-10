@@ -7,3 +7,4 @@ Step 2:
 Click on the download button on the home screen or the download screen.
 
 Step 3: 
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/6a0f0c78-1430-4e03-a624-84456e8a1e5f" />
