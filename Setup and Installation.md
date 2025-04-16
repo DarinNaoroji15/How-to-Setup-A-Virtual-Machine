@@ -11,7 +11,7 @@ Step 3:
 <img width="559" alt="Image" src="https://github.com/user-attachments/assets/6a0f0c78-1430-4e03-a624-84456e8a1e5f" />
 
 Click on one of the options that is dependent on which Operating System you run on.
-For me I will selecting the Windows host.
+For me I will be selecting the Windows host.
 
 Step 4: 
 Click on the download file to open the installer.
